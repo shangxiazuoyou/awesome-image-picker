@@ -21,3 +21,9 @@
 - [PickPhotoSample](https://github.com/Werb/PickPhotoSample) -Photo Picker Of Android Library
 
 - [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal) -Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制
+
+- [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android) -Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件
+
+- [ImageSelector](https://github.com/smuyyh/ImageSelector) -:foggy: Android 图片选择器。充分自由定制，极大程度简化使用，支持图库多选/图片预览/单选/照片裁剪/拍照/自定义图片加载方式/自定义色调/沉浸式状态栏
+
+- [ImageSelector](https://github.com/huzhenjie/ImageSelector) -图片选择器, 支持多图选择和图片预览 好像该库无相册选择功能，待我后续测试后再作评价
