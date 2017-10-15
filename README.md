@@ -9,3 +9,5 @@
 - [AlbumSelector](https://github.com/lijunguan/AlbumSelector) -图片选择库，可以用来选择头像，或者多张图片选择， material design
 
 - [MultiImagePicker](https://github.com/yazeed44/MultiImagePicker) -A library to pick multi images
+
+- [MediaPicker](https://github.com/xushihai/MediaPicker) -高仿微信选择图片和视频的控件
