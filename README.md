@@ -20,3 +20,4 @@
 
 - [PickPhotoSample](https://github.com/Werb/PickPhotoSample) -Photo Picker Of Android Library
 
+- [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal) -Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制
