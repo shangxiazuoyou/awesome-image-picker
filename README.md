@@ -11,3 +11,12 @@
 - [MultiImagePicker](https://github.com/yazeed44/MultiImagePicker) -A library to pick multi images
 
 - [MediaPicker](https://github.com/xushihai/MediaPicker) -高仿微信选择图片和视频的控件
+
+- [boxing](https://github.com/Bilibili/boxing) -Android multi-media selector based on MVP mode 来自哔哩哔哩
+
+- [Matisse](https://github.com/zhihu/Matisse) -:fireworks: A well-designed local image and video selector for Android 来自知乎
+
+- [TelegramGallery](https://github.com/TangXiaoLv/TelegramGallery) -world level Gallery , from Telegram，Photo album selector，QQ style
+
+- [PickPhotoSample](https://github.com/Werb/PickPhotoSample) -Photo Picker Of Android Library
+
