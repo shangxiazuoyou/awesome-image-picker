@@ -29,3 +29,29 @@
 - [ImageSelector](https://github.com/huzhenjie/ImageSelector) -图片选择器, 支持多图选择和图片预览 好像该库无相册选择功能，待我后续测试后再作评价
 
 - [AndroidPicturePicker](https://github.com/ValuesFeng/AndroidPicturePicker) -android powerful picture picker
+
+- [MultiPhotoPicker](https://github.com/nileshpambhar/MultiPhotoPicker)
+
+- [ImagePicker-OLX](https://github.com/RameshBhupathi/ImagePicker-OLX)
+
+- [CroPicker](https://github.com/dev-juyoung/CroPicker) -CroPicker is album and image Picker Library for Android. Supports import a list of Albums and support multiple image selection
+
+- [LatestPhotoGallery-library](https://github.com/oswaldo89/LatestPhotoGallery-library) -Ultimas fotos agregadas en el dispositivo
+
+- [EasyImagePicker-library](https://github.com/oswaldo89/EasyImagePicker-library)
+
+- [Multimager](https://github.com/vansikrishna/Multimager) -Multi Image Picker and Multi Image Capture Library
+
+- [Louvre](https://github.com/andremion/Louvre) -A small customizable library useful to handle an gallery image pick action built-in your app. 🌄🌠
+
+- [ImagePickerWithCrop](https://github.com/Tofira/ImagePickerWithCrop) -A library designated for selecting an image via gallery or camera, with cropping abilities, in an easy way
+
+- [android-image-picker](https://github.com/esafirm/android-image-picker) -Image Picker for Android 🤖
+
+- [PickImage](https://github.com/jrvansuita/PickImage) -Shows a DialogFragment with camera and gallery options. User can choose wich provider wants to pick images from. 📸 🖼️
+
+- [TedBottomPicker](https://github.com/ParkSangGwon/TedBottomPicker) -TedBottomPicker is simple image picker using bottom sheet
+
+- [GalleryModule](https://github.com/guiguegon/GalleryModule) -Simple gallery to retrieve one or more images. It allow to take new photos or videos
+
+- [ImagePicker](https://github.com/nguyenhoanglam/ImagePicker) -A simple library that allows you to select images from the device library or directly from the camera
