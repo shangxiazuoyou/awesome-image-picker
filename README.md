@@ -27,3 +27,5 @@
 - [ImageSelector](https://github.com/smuyyh/ImageSelector) -:foggy: Android 图片选择器。充分自由定制，极大程度简化使用，支持图库多选/图片预览/单选/照片裁剪/拍照/自定义图片加载方式/自定义色调/沉浸式状态栏
 
 - [ImageSelector](https://github.com/huzhenjie/ImageSelector) -图片选择器, 支持多图选择和图片预览 好像该库无相册选择功能，待我后续测试后再作评价
+
+- [AndroidPicturePicker](https://github.com/ValuesFeng/AndroidPicturePicker) -android powerful picture picker
