@@ -55,3 +55,5 @@
 - [GalleryModule](https://github.com/guiguegon/GalleryModule) -Simple gallery to retrieve one or more images. It allow to take new photos or videos
 
 - [ImagePicker](https://github.com/nguyenhoanglam/ImagePicker) -A simple library that allows you to select images from the device library or directly from the camera
+
+- [photocrop](https://github.com/pengyuantao/photocrop) -Android选择图片，裁剪图片类库,photo,crop
