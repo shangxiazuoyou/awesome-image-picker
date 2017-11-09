@@ -59,3 +59,5 @@
 - [photocrop](https://github.com/pengyuantao/photocrop) -Android选择图片，裁剪图片类库,photo,crop
 
 - [phoenix](https://github.com/guoxiaoxing/phoenix) -The one-stop solution for image/video selection, editing and compression on the Android platform
+
+- [MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker) -This is a light Android file picker library
