@@ -65,3 +65,5 @@
 - [RxPicker](https://github.com/imuhao/RxPicker) -The ImageSelect tool based on RxJava
 
 - [NaraeImagePicker](https://github.com/WindSekirun/NaraeImagePicker) -MultiImagePicker for Android Application, written in Kotlin
+
+- [RxImagePicker](https://github.com/qingmei2/RxImagePicker) -🌟 一个支持RxJava2响应式流、灵活可高度定制的Android图片选择器
