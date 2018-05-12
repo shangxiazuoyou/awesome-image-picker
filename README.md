@@ -67,3 +67,5 @@
 - [NaraeImagePicker](https://github.com/WindSekirun/NaraeImagePicker) -MultiImagePicker for Android Application, written in Kotlin
 
 - [RxImagePicker](https://github.com/qingmei2/RxImagePicker) -🌟 一个支持RxJava2响应式流、灵活可高度定制的Android图片选择器
+
+- [BSImagePicker](https://github.com/siralam/BSImagePicker) -An image picker that extends BottomSheetDialogFragment. Camera and gallery all in one dialog. Single or Multi Selection.
