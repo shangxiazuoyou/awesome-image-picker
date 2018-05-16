@@ -69,3 +69,5 @@
 - [RxImagePicker](https://github.com/qingmei2/RxImagePicker) -🌟 一个支持RxJava2响应式流、灵活可高度定制的Android图片选择器
 
 - [BSImagePicker](https://github.com/siralam/BSImagePicker) -An image picker that extends BottomSheetDialogFragment. Camera and gallery all in one dialog. Single or Multi Selection.
+
+- [PixImagePicker](https://github.com/akshay2211/PixImagePicker) -Pix is a Whatsapp image picker replica. with this you can integrate a image picker just like whatsapp.
