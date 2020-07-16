@@ -73,3 +73,5 @@
 - [BSImagePicker](https://github.com/siralam/BSImagePicker) -An image picker that extends BottomSheetDialogFragment. Camera and gallery all in one dialog. Single or Multi Selection.
 
 - [PixImagePicker](https://github.com/akshay2211/PixImagePicker) -Pix is a Whatsapp image picker replica. with this you can integrate a image picker just like whatsapp.
+
+- [InsGallery](https://github.com/JessYanCoding/InsGallery) -Instagram-like image picker for Android (一款 UI 炫酷高仿 Instagram 的图片、视频选择器)，基于PictureSelector开源库。
